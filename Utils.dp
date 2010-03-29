@@ -1,0 +1,15 @@
+[Project]
+FileName=D:\Projects\Pascal\Utils.dp
+Name=Utils
+MainUnit=D:\Projects\Pascal\String.pas
+UnitCount=1
+ResFiles=D:\Projects\Pascal\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icons\Software.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=D:\Projects\Pascal\String.pas
+FileTime=999903376
